@@ -1,0 +1,6 @@
+[submodule "subs/mlyly-test-git-submodules-sub1"]
+	path = subs/mlyly-test-git-submodules-sub1
+	url = git@github.com:mlyly/mlyly-test-git-submodules-sub1.git
+[submodule "subs/mlyly-test-git-submodules-sub2"]
+	path = subs/mlyly-test-git-submodules-sub2
+	url = git@github.com:mlyly/mlyly-test-git-submodules-sub2.git
